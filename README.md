@@ -1,6 +1,6 @@
 ![logo](https://github.com/ByteCrister/ByteCrister/blob/main/tech-banner-illustration-desktop-computer_107791-7920.avif)
 <h1 align="center">Hi, I'm Sadiqul Islam Shakib</h1>
-<h3 align="center">A passionate teach learner from Bangladesh</h3>
+<h3 align="center">An artistic technophile bridging imagination and innovation in a digital symphony of creativity.</h3>
 <img align="right' alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytecrister&label=Profile%20views&color=0e75b6&style=flat" alt="bytecrister" /> </p>
