@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bytecrister" alt="bytecrister" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development, Object-Oriented Programming languages**
+- 🌱 I’m currently learning **Web Development, Object-Oriented Programming languages. Building small games with my previous knowladge of DSA and Algorithms.**
 
 - 📫 How to reach me **sadiqul.islam.shakib21@gamil.com**
 
