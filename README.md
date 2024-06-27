@@ -1,4 +1,4 @@
-I want to add more logo of languages like node.js, express.js, ejs and MySql - > ![logo](https://github.com/ByteCrister/ByteCrister/blob/main/tech-banner-illustration-desktop-computer_107791-7920.avif)
+ ![logo](https://github.com/ByteCrister/ByteCrister/blob/main/tech-banner-illustration-desktop-computer_107791-7920.avif)
 <h1 align="center">Hi, I'm Sadiqul Islam Shakib</h1>
 <h3 align="center">An artistic technophile bridging imagination and innovation in a digital symphony of creativity.</h3>
 <img align="right' alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
