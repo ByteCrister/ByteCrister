@@ -84,10 +84,14 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bytecrister&show_icons=true&locale=en&layout=compact" alt="bytecrister" />
 </p>
 <br />
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bytecrister&show_icons=true&locale=en" alt="bytecrister" />
 </p>
+
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytecrister)](https://github.com/anuraghazra/github-readme-stats)
+
+![My GitHub stats]([https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true](https://github-readme-stats.vercel.app/api?username=bytecrister&show_icons=true&locale=en))
 <br />
 
 <p>
