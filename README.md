@@ -85,7 +85,7 @@
 </p>
 <br />
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bytecrister&show_icons=true&locale=en" alt="bytecrister" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bytecrister&show_icons=true&locale=en" alt="bytecrister" />
 </p>
 <br />
 
