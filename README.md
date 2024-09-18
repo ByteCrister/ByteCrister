@@ -10,9 +10,11 @@
 
 <img align="left" alt="Coding" width="50%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
+</br>
+
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bytecrister" alt="bytecrister" />
+    <img width="50%" src="https://github-profile-trophy.vercel.app/?username=bytecrister" alt="bytecrister" />
   </a> 
 </p>
 
