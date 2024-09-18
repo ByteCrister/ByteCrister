@@ -84,9 +84,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bytecrister&show_icons=true&locale=en&layout=compact" alt="bytecrister" />
 </p>
 <br />
+<br />
+
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=bytecrister&show_icons=true&locale=en" alt="bytecrister" />
 </p>
+<br />
 <br />
 
 <p>
