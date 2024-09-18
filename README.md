@@ -18,6 +18,10 @@
 
 - 📫 How to reach me **sadiqul.islam.shakib21@gmail.com**
 
+<br />
+<br />
+<br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/sadiqul islam shakib" target="blank">
@@ -28,13 +32,12 @@
   </a>
 </p>
 
+<br />
+<br />
+<br />
+
+
 <h3 align="left">Languages and Tools:</h3>
-
-
-<br />
-<br />
-<br />
-
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img align="left" width="45" hspace="5"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -71,6 +74,10 @@
     <img align="left" width="45" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
+
+<br />
+<br />
+<br />
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bytecrister&show_icons=true&locale=en&layout=compact" alt="bytecrister" />
