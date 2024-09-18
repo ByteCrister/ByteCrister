@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Sadiqul Islam Shakib</h1>
 <h3 align="center">An artistic technophile bridging imagination and innovation in a digital symphony of creativity.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="center" alt="Coding" width="50%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bytecrister&label=Profile%20views&color=0e75b6&style=flat" alt="bytecrister" /> 
