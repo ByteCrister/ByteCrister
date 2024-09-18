@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=bytecrister&label=Profile%20views&color=0e75b6&style=flat" alt="bytecrister" /> 
 </p>
 
@@ -17,10 +17,6 @@
 - 🌱 I’m currently learning **Web Development, Object-Oriented Programming languages. Building small projects.**
 
 - 📫 How to reach me **sadiqul.islam.shakib21@gmail.com**
-
-<br />
-<br />
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
