@@ -13,11 +13,12 @@
 </br>
 </br>
 
-<p align="left"> 
+---
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=bytecrister" alt="bytecrister" />
+    <img align="left" width="100%" src="https://github-profile-trophy.vercel.app/?username=bytecrister" alt="bytecrister" />
   </a> 
-</p>
+
 
 - 🌱 I’m currently learning **Web Development, Object-Oriented Programming languages. Building small projects.**
 
@@ -80,7 +81,6 @@
 <br />
 <br />
 
----
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bytecrister&show_icons=true&locale=en&layout=compact" alt="bytecrister" />
@@ -88,7 +88,6 @@
 <br />
 <br />
 
----
 
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=bytecrister&show_icons=true&locale=en" alt="bytecrister" />
@@ -96,7 +95,6 @@
 <br />
 <br />
 
----
 
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bytecrister&" alt="bytecrister" />
