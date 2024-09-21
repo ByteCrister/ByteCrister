@@ -74,14 +74,14 @@
 
 <br /><br /><br />
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bytecrister&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bytecrister&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecrister&" alt="GitHub Streak" />
 </p>
