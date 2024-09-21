@@ -16,7 +16,9 @@
   <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=bytecrister" alt="GitHub Trophies" />
 </a>
 
-<br />
+<br /> 
+<br /> 
+
 - 🌱 I’m currently learning **Web Development, Object-Oriented Programming languages. Building small projects.**
 - 📫 How to reach me: **sadiqul.islam.shakib21@gmail.com**
 
