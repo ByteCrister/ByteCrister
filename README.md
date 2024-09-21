@@ -9,17 +9,14 @@
 </p>
 
 <br />
-
 <img align="left" alt="Coding" width="45%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<br /><br />
-
+<br />
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=bytecrister" alt="GitHub Trophies" />
 </a>
 
-<br /><br />
-
+<br />
 - 🌱 I’m currently learning **Web Development, Object-Oriented Programming languages. Building small projects.**
 - 📫 How to reach me: **sadiqul.islam.shakib21@gmail.com**
 
