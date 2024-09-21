@@ -13,7 +13,6 @@
 </br>
 </br>
 
----
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="left" width="100%" src="https://github-profile-trophy.vercel.app/?username=bytecrister" alt="bytecrister" />
