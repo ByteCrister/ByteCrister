@@ -40,6 +40,9 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img align="left" width="45" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" />
   </a>
+   <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img align="left" width="45" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" />
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img align="left" width="45" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" />
   </a>
@@ -51,9 +54,6 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img align="left" width="45" hspace="5" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img align="left" width="45" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img align="left" width="45" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" />
