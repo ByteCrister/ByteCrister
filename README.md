@@ -79,8 +79,8 @@
 
 - **[Java Course: Cricket Score Management System](https://github.com/ByteCrister/NEUB-Projects-From-_22_)**  
   <a href="https://github.com/ByteCrister/NEUB-Projects-From-_22_" target="_blank">
-  <img src="gifs/cricket_score_management.gif" width="300" alt="Cricket Score Management System" />  
    </a>
+  <img src="gifs/cricket_score_management.gif" width="300" alt="Cricket Score Management System" />  
 
 - **[Pong Game](https://github.com/ByteCrister/PONG-Game)**  
   <a href="https://github.com/ByteCrister/PONG-Game" target="_blank">
