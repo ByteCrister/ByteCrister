@@ -88,8 +88,8 @@
   </a>
 
 - **[Database Project: Inventory Management](https://github.com/ByteCrister/Database-Project--2-2)**  
-  <img src="gifs/inventory_management.gif" width="300" alt="Inventory Management" />
   <a href="https://github.com/ByteCrister/Database-Project--2-2" target="_blank">
+  <img src="gifs/inventory_management.gif" width="300" alt="Inventory Management" />
   </a>
 
 </div>
