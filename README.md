@@ -1,4 +1,3 @@
-
 ![logo](https://github.com/ByteCrister/ByteCrister/blob/main/tech-banner-illustration-desktop-computer_107791-7920.avif)
 
 <h1 align="center">Hi, I'm Sadiqul Islam Shakib</h1>
@@ -17,7 +16,7 @@
 </a>
 
 <br /> 
-<br /> 
+<br />
 
 - 🌱 I’m currently learning **Web Development, Object-Oriented Programming languages. Building small projects.**
 - 📫 How to reach me: **sadiqul.islam.shakib21@gmail.com**
@@ -73,6 +72,23 @@
 </p>
 
 <br /><br /><br />
+
+### University Projects :
+
+- <div>
+    <h2>Java Course : Cricket Score Management System</h2>
+    <img src="https://drive.google.com/file/d/12zOCDqzBE4hs_8Gy_sb6Tq3RyKjuguvd/view?usp=drive_link" alt="Pong Game" width="240" height="180" border="10" />
+  </div>
+
+  - <div>
+      <h2>Pong Game</h2>
+      <img src="https://drive.google.com/file/d/12zOCDqzBE4hs_8Gy_sb6Tq3RyKjuguvd/view?usp=drive_link" alt="Pong Game" width="240" height="180" border="10" />
+    </div>
+
+- <div>
+    <h2>Database Project : Inventory Management</h2>
+    <img src="https://drive.google.com/file/d/1ej4blzkYd6M2zhHDBxXeMDc74AiJufUQ/view?usp=drive_link" alt="Pong Game" width="240" height="180" border="10" />
+  </div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bytecrister&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
