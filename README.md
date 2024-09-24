@@ -75,14 +75,19 @@
 
 ### University Projects:
 
-- **Java Course: Cricket Score Management System**
-  ![Cricket Score Management System](gifs/cricket_score_management.gif)
+<div align="center">
 
-- **Pong Game**
-  ![Pong Game](gifs/pong_game.gif)
+- **Java Course: Cricket Score Management System**  
+  <img src="gifs/cricket_score_management.gif" width="300" alt="Cricket Score Management System" />  
 
-- **Database Project: Inventory Management**
-  ![Inventory Management](gifs/inventory_management.gif)
+- **Pong Game**  
+  <img src="gifs/pong_game.gif" width="300" alt="Pong Game" />  
+
+- **Database Project: Inventory Management**  
+  <img src="gifs/inventory_management.gif" width="300" alt="Inventory Management" />  
+
+</div>
+
 
 
 
