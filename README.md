@@ -76,13 +76,13 @@
 ### University Projects:
 
 - **Java Course: Cricket Score Management System**
-  [Watch Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID&autoplay=1&mute=1&loop=1&playlist=YOUR_VIDEO_ID)
+  [Watch Video](https://drive.google.com/file/d/1ext-M88TNsMWsrqF8QNekUHpfHBzlJqO/view?usp=drive_link)
 
 - **Pong Game**
-  [Watch Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID&autoplay=1&mute=1&loop=1&playlist=YOUR_VIDEO_ID)
+  [Watch Video](https://drive.google.com/file/d/12zOCDqzBE4hs_8Gy_sb6Tq3RyKjuguvd/view?usp=drive_link)
 
 - **Database Project: Inventory Management**
-  [Watch Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID&autoplay=1&mute=1&loop=1&playlist=YOUR_VIDEO_ID)
+  [Watch Video](https://drive.google.com/file/d/1ej4blzkYd6M2zhHDBxXeMDc74AiJufUQ/view?usp=drive_link)
 
 
 <p align="center">
