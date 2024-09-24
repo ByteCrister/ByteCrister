@@ -73,22 +73,17 @@
 
 <br /><br /><br />
 
-### University Projects :
+### University Projects:
 
-- <div>
-    <h2>Java Course : Cricket Score Management System</h2>
-    <img src="https://drive.google.com/file/d/12zOCDqzBE4hs_8Gy_sb6Tq3RyKjuguvd/view?usp=drive_link" alt="Pong Game" width="240" height="180" border="10" />
-  </div>
+- **Java Course: Cricket Score Management System**
+  [Watch Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID&autoplay=1&mute=1&loop=1&playlist=YOUR_VIDEO_ID)
 
-  - <div>
-      <h2>Pong Game</h2>
-      <img src="https://drive.google.com/file/d/12zOCDqzBE4hs_8Gy_sb6Tq3RyKjuguvd/view?usp=drive_link" alt="Pong Game" width="240" height="180" border="10" />
-    </div>
+- **Pong Game**
+  [Watch Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID&autoplay=1&mute=1&loop=1&playlist=YOUR_VIDEO_ID)
 
-- <div>
-    <h2>Database Project : Inventory Management</h2>
-    <img src="https://drive.google.com/file/d/1ej4blzkYd6M2zhHDBxXeMDc74AiJufUQ/view?usp=drive_link" alt="Pong Game" width="240" height="180" border="10" />
-  </div>
+- **Database Project: Inventory Management**
+  [Watch Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID&autoplay=1&mute=1&loop=1&playlist=YOUR_VIDEO_ID)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bytecrister&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
