@@ -18,7 +18,7 @@
 <br /> 
 <br />
 
-- 🌱 I’m currently learning **Web Development, Object-Oriented Programming languages. Building small projects.**
+- 🌱 I’m currently learning **Web Tools, Object-Oriented Programming languages. Building small projects.**
 - 📫 How to reach me: **sadiqul.islam.shakib21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
