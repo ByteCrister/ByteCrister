@@ -60,6 +60,8 @@
   </a>
   <img src="gifs/cricket_score_management.gif" width="300" alt="Cricket Score Management System" />
 
+  ---
+
 - **[👉Pong Game](https://github.com/ByteCrister/PONG-Game)**  
   <a href="https://github.com/ByteCrister/PONG-Game" target="_blank">
   <img src="gifs/pong_game.gif" width="300" alt="Pong Game" />
