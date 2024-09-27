@@ -53,7 +53,6 @@
 
 ### Projects while I'm an undergraduate:
 
-<div align="center">
 | Project Name                      | Repository                                                          | Gif                                                                                                         |
 |-----------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Cricket Score Management System   | **[👉Link](https://github.com/ByteCrister/NEUB-Projects-From-_22_)** | <a href="https://github.com/ByteCrister/NEUB-Projects-From-_22_" target="_blank"><img src="gifs/cricket_score_management.gif" width="300" alt="Cricket Score Management System" /></a> |
@@ -79,7 +78,6 @@
   </a>
 
   ---
-</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bytecrister&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
