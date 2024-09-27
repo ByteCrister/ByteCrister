@@ -55,21 +55,21 @@
 
 <div align="center">
 
-- **[👉Java Course: Cricket Score Management System](https://github.com/ByteCrister/NEUB-Projects-From-_22_)**  
+ **[👉Java Course: Cricket Score Management System](https://github.com/ByteCrister/NEUB-Projects-From-_22_)**  
   <a href="https://github.com/ByteCrister/NEUB-Projects-From-_22_" target="_blank">
   </a>
   <img src="gifs/cricket_score_management.gif" width="300" alt="Cricket Score Management System" />
 
   ---
 
-- **[👉Pong Game](https://github.com/ByteCrister/PONG-Game)**  
+  **[👉Pong Game](https://github.com/ByteCrister/PONG-Game)**  
   <a href="https://github.com/ByteCrister/PONG-Game" target="_blank">
   <img src="gifs/pong_game.gif" width="300" alt="Pong Game" />
   </a>
 
   ---
 
-- **[👉Database Project: Inventory Management](https://github.com/ByteCrister/Database-Project--2-2)**  
+ **[👉Database Project: Inventory Management](https://github.com/ByteCrister/Database-Project--2-2)**  
   <a href="https://github.com/ByteCrister/Database-Project--2-2" target="_blank">
   <img src="gifs/inventory_management.gif" width="300" alt="Inventory Management" />
   </a>
