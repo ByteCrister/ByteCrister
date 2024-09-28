@@ -71,3 +71,5 @@
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bytecrister&" alt="GitHub Streak" />
 </p>
+
+## Thanks for visiting my profile and making it to the end! Feel free to connect or check out my projects.
