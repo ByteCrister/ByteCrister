@@ -58,7 +58,7 @@
 
 ### Projects while I'm an undergraduate:
 
-| Project repository Link                                         | Gif                                                                                                         |
+| Project repository Link                                         | Short Demo                                                                                                         |
 |-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | **[👉Java Course: Cricket Score Management System](https://github.com/ByteCrister/NEUB-Projects-From-_22_)** | <img src="gifs/cricket_score_management.gif" width="300" alt="Cricket Score Management System" /> |
 | **[👉Pong Game](https://github.com/ByteCrister/PONG-Game)** | <img src="gifs/pong_game.gif" width="300" alt="Pong Game" /> |
