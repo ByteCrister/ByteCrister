@@ -62,10 +62,7 @@
 | **[👉Java Course: Cricket Score Management System](https://github.com/ByteCrister/NEUB-Projects-From-_22_)** | <img src="gifs/cricket_score_management.gif" width="300" alt="Cricket Score Management System" /> |
 | **[👉Pong Game](https://github.com/ByteCrister/PONG-Game)** | <img src="gifs/pong_game.gif" width="300" alt="Pong Game" /> |
 | **[👉Database Project: Inventory Management](https://github.com/ByteCrister/Database-Project--2-2)** | <img src="gifs/inventory_management.gif" width="300" alt="Inventory Management" /> |
-| **[👉First Next.js app: Basic Todos(with all setup)](https://github.com/ByteCrister/Next.js-todo-practice-app)** | <video width="300" controls>
-    <source src="./videos/Next.js%20Todo%20Practice.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-    </video> |
+| **[👉First Next.js app: Basic Todos(with all setup)](https://github.com/ByteCrister/Next.js-todo-practice-app)** | <img src="./videos/Next.jsTodoPracticeRAW-ezgif.com-video-to-gif-converter.gif" width="300" alt="Inventory Management" /> |
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bytecrister&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
