@@ -70,6 +70,11 @@
   <img src="gifs/Inventory_management.gif" width="300" alt="Inventory Management" />
   </a>
 
+- **[👉Next.js Practice-Todos](https://github.com/ByteCrister/Next.js-todo-practice-app)**  
+  <a href="https://github.com/ByteCrister/Next.js-todo-practice-app" target="_blank">
+  <img src="./videos/Next.js Todo Practice.mp4" width="300" alt="Inventory Management" />
+  </a>
+
 </div>
 
 <p align="center">
