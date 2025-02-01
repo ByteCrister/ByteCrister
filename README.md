@@ -8,7 +8,6 @@
 <br />
 <br />
 
-
 <h3 align="left">Have experience with:</h3>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -57,12 +56,13 @@
 
 ### Projects while I'm an undergraduate:
 
-| Project repository Link                                         | Short Demo                                                                                                         |
-|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| **[👉Java Course: Cricket Score Management System](https://github.com/ByteCrister/NEUB-Projects-From-_22_)** | <img src="gifs/cricket_score_management.gif" width="300" alt="Cricket Score Management System" /> |
-| **[👉Pong Game](https://github.com/ByteCrister/PONG-Game)** | <img src="gifs/pong_game.gif" width="300" alt="Pong Game" /> |
-| **[👉Database Project: Inventory Management](https://github.com/ByteCrister/Database-Project--2-2)** | <img src="gifs/inventory_management.gif" width="300" alt="Inventory Management" /> |
-| **[👉First Next.js app: Basic Todos(with all setup)](https://github.com/ByteCrister/Next.js-todo-practice-app)** | <img src="./videos/Next.jsTodoPracticeRAW-ezgif.com-video-to-gif-converter.gif" width="300" alt="Inventory Management" /> |
+| Project repository Link                                                                                          | Short Demo                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **[👉Java Course: Cricket Score Management System](https://github.com/ByteCrister/NEUB-Projects-From-_22_)**     | <img src="gifs/cricket_score_management.gif" width="300" alt="Cricket Score Management System" />               |
+| **[👉Pong Game](https://github.com/ByteCrister/PONG-Game)**                                                      | <img src="gifs/pong_game.gif" width="300" alt="Pong Game" />                                                    |
+| **[👉Database Project: Inventory Management](https://github.com/ByteCrister/Database-Project--2-2)**             | <img src="gifs/inventory_management.gif" width="300" alt="Inventory Management" />                              |
+| **[👉First Next.js app: Basic Todos(with all setup)](https://github.com/ByteCrister/Next.js-todo-practice-app)** | <img src="./videos/Next.jsTodoPracticeRAW-ezgif.com-video-to-gif-converter.gif" width="300" alt="Basic Todo" /> |
+| **[👉Note Task](https://github.com/ByteCrister/Smart-Note-Next.js-TypeScript-Redux-Mongoose.git)**               | <img src="gifs/smart-note-1-1-gif.gif" width="300" alt="Note Task" />                                           |
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bytecrister&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -76,7 +76,7 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bytecrister&" alt="GitHub Streak" />
 </p>
 
---- 
+---
 
 Thanks for visiting my profile and making it to the end! Feel free to connect or check out my projects.
 
