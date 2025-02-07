@@ -62,7 +62,7 @@
 | **[👉Pong Game](https://github.com/ByteCrister/PONG-Game)**                                                      | <img src="gifs/pong_game.gif" width="300" alt="Pong Game" />                                                    |
 | **[👉Database Project: Inventory Management](https://github.com/ByteCrister/Database-Project--2-2)**             | <img src="gifs/inventory_management.gif" width="300" alt="Inventory Management" />                              |
 | **[👉First Next.js app: Basic Todos(with all setup)](https://github.com/ByteCrister/Next.js-todo-practice-app)** | <img src="./videos/Next.jsTodoPracticeRAW-ezgif.com-video-to-gif-converter.gif" width="300" alt="Basic Todo" /> |
-| **[👉Note Task( Next.js )](https://github.com/ByteCrister/Smart-Note-Next.js-TypeScript-Redux-Mongoose.git)**               | <img src="gifs/smart-note-1-1-gif.gif" width="300" alt="Note Task" />                                           |
+| **[👉Note Task( Next.js, TypeScript )](https://github.com/ByteCrister/Smart-Note-Next.js-TypeScript-Redux-Mongoose.git)**               | <img src="gifs/smart-note-1-1-gif.gif" width="300" alt="Note Task" />                                           |
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bytecrister&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
