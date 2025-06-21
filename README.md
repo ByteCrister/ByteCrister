@@ -32,7 +32,7 @@
 <br /><br />
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=bytecrister&theme=gruvbox" alt="GitHub Trophies" />
+  <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=bytecrister&margin-w=15" alt="GitHub Trophies" />
 </a>
 
 <br /> 
