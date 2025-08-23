@@ -30,6 +30,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FF4F00?style=for-the-badge&logo=zustand&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-023430?style=for-the-badge&logo=ejs&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
@@ -91,15 +92,47 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bytecrister&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<!-- Main Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bytecrister&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecrister&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bytecrister&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<!-- Profile Summary Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytecrister&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bytecrister&theme=tokyo-night&bg_color=1a1b27&hide_border=true&line=70a5fd&point=f9f9f9" alt="GitHub Activity Graph" />
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation showing commits" />
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
