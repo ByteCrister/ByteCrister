@@ -50,11 +50,11 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ByteCrister&margin-w=15&theme=algolia" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bytecrister&margin-w=15&margin-h=15&theme=algolia&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -137,5 +137,5 @@
 ---
 
 <p align="center">
-  💡 *Thanks for stopping by — keep building, keep exploring!* ✨
+   *Thanks for stopping by — keep building, keep exploring!*
 </p>
