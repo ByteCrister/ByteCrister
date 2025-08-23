@@ -61,9 +61,15 @@
 ---
 
 ## 📚 Currently Exploring
-- 🌱 Deep diving into **Web Tools** & **OOP languages**
-- 🛠 Building small yet impactful projects
+
+- 🚀 **Full‑stack product builds** — crafting scalable apps with **Next.js, TypeScript, TailwindCSS, MongoDB/Mongoose**, and clean schema design.
+- 🧠 **AI‑powered projects** — experimenting with interactive games and tools that apply core **Artificial Intelligence** techniques (see *AI‑Games‑CSE‑412*).
+- 🗄 **Database‑driven systems** — designing and optimizing relational & NoSQL data models for projects like **Inventory Management** and **Cricket Score Management**.
+- 🎮 **Creative coding** — building engaging browser games (*Pong Game*) and playful UI experiments.
+- 📅 **Productivity platforms** — developing tools like **Meeting Sync** to streamline scheduling and collaboration.
+- 🌱 Always learning — deepening expertise in **state management** (Redux, Zustand), **OOP patterns**, and modern web tooling.
 - 📫 Reach me at: **sadiqul.islam.shakib21@gmail.com**
+
 
 ---
 
