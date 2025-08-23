@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bytecrister&margin-w=15&margin-h=15&theme=algolia&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bytecrister&theme=flat" alt="GitHub Trophies" />
   </a>
 </p>
 
