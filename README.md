@@ -82,6 +82,9 @@
   <a href="https://instagram.com/_sadiqul_islam_shakib_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+   <a href="https://www.linkedin.com/in/sadiqul-islam-shakib/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
