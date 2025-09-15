@@ -94,11 +94,15 @@
 
 ## 🎓 Undergraduate Projects
 
-| Project | Demo |
-|---------|------|
-| **[👉 Java Course: Cricket Score Management System](https://github.com/ByteCrister/NEUB-Projects-From-_22_)** | <img src="gifs/cricket_score_management.gif" width="300" alt="Cricket Score Management System" /> |
-| **[👉 Pong Game](https://github.com/ByteCrister/PONG-Game)** | <img src="gifs/pong_game.gif" width="300" alt="Pong Game" /> |
-| **[👉 Database Project: Inventory Management](https://github.com/ByteCrister/Database-Project--2-2)** | <img src="gifs/inventory_management.gif" width="300" alt="Inventory Management" /> |
+| Project | Description |
+|---------|-------------|
+| **[Java Course: Cricket Score Management System](https://github.com/ByteCrister/NEUB-Projects-From-_22_)** | A Java-based desktop application to manage cricket match scores, player stats, and match summaries. |
+| **[Pong Game](https://github.com/ByteCrister/PONG-Game)** | A simple browser-based Pong game built with JavaScript, focusing on game loop logic and collision detection. |
+| **[Database Project: Inventory Management](https://github.com/ByteCrister/Database-Project--2-2)** | A full-stack inventory management system using EJS, Node.js, and MySQL for CRUD operations and reporting. |
+| **[Meeting Sync](https://github.com/ByteCrister/meeting-sync)** | A modern meeting scheduling platform built with Next.js, TypeScript, and MongoDB, featuring calendar integration and smart booking. |
+| **[AI‑Games‑CSE‑412](https://github.com/ByteCrister/AI-Games-CSE-412)** | A collection of interactive games demonstrating core AI algorithms like Minimax, BFS, and DFS. |
+| **[Basic Todos App](https://github.com/ByteCrister/first-nextjs-app)** | A starter Next.js project with full setup for managing todos, including state management and responsive UI. |
+| **[Note Task](https://github.com/ByteCrister/note-task)** | A Next.js + TypeScript note-taking app with CRUD features, clean UI, and persistent storage. |
 
 ---
 
