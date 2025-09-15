@@ -94,15 +94,33 @@
 
 ## 🎓 Undergraduate Projects
 
-| Project | Description |
-|---------|-------------|
-| **[Java Course: Cricket Score Management System](https://github.com/ByteCrister/NEUB-Projects-From-_22_)** | A Java-based desktop application to manage cricket match scores, player stats, and match summaries. |
-| **[Pong Game](https://github.com/ByteCrister/PONG-Game)** | A simple browser-based Pong game built with JavaScript, focusing on game loop logic and collision detection. |
-| **[Database Project: Inventory Management](https://github.com/ByteCrister/Database-Project--2-2)** | A full-stack inventory management system using EJS, Node.js, and MySQL for CRUD operations and reporting. |
-| **[Meeting Sync](https://github.com/ByteCrister/meeting-sync)** | A modern meeting scheduling platform built with Next.js, TypeScript, and MongoDB, featuring calendar integration and smart booking. |
-| **[AI‑Games‑CSE‑412](https://github.com/ByteCrister/AI-Games-CSE-412)** | A collection of interactive games demonstrating core AI algorithms like Minimax, BFS, and DFS. |
-| **[Basic Todos App](https://github.com/ByteCrister/first-nextjs-app)** | A starter Next.js project with full setup for managing todos, including state management and responsive UI. |
-| **[Note Task](https://github.com/ByteCrister/note-task)** | A Next.js + TypeScript note-taking app with CRUD features, clean UI, and persistent storage. |
+<details>
+<summary>▶ 📂 View All Projects</summary>
+
+### 🏏 Sports & Games
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏏 **[Java Course: Cricket Score Management System](https://github.com/ByteCrister/NEUB-Projects-From-_22_)** | Java-based desktop app to manage cricket match scores, player stats, and summaries. | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-6DB33F?style=flat&logo=java&logoColor=white) |
+| 🕹 **[Pong Game](https://github.com/ByteCrister/PONG-Game)** | Browser-based Pong game with game loop logic and collision detection. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| 🤖 **[AI‑Games‑CSE‑412](https://github.com/ByteCrister/AI-Games-CSE-412)** | Interactive games demonstrating AI algorithms like Minimax, BFS, and DFS. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=probot&logoColor=white) |
+
+---
+
+### 📦 Database & Management Systems
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 📦 **[Database Project: Inventory Management](https://github.com/ByteCrister/Database-Project--2-2)** | Inventory management system with CRUD operations and reporting. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-023430?style=flat&logo=ejs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+
+---
+
+### 📅 Productivity & Tools
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 📆 **[Meeting Sync](https://github.com/ByteCrister/meeting-sync)** | Modern meeting scheduling platform with calendar integration and smart booking. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| 📝 **[Basic Todos App](https://github.com/ByteCrister/first-nextjs-app)** | Starter Next.js project for managing todos with responsive UI. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| 🗒 **[Note Task](https://github.com/ByteCrister/note-task)** | Note-taking app with CRUD features and persistent storage. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+
+</details>
 
 ---
 
