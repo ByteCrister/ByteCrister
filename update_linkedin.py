@@ -1,28 +1,13 @@
-# update_linkedin.py
-from linkedin_api import Linkedin
-import os
+import feedparser
 
-# Environment secrets for GitHub Actions
-LINKEDIN_EMAIL = os.environ.get("LINKEDIN_EMAIL")
-LINKEDIN_PASSWORD = os.environ.get("LINKEDIN_PASSWORD")
+RSS_URL = "https://rsshub.app/linkedin/posts/1177422605"
+feed = feedparser.parse(RSS_URL)
 
-if not LINKEDIN_EMAIL or not LINKEDIN_PASSWORD:
-    raise ValueError("LinkedIn credentials not set in environment variables")
-
-# Login to LinkedIn
-api = Linkedin(LINKEDIN_EMAIL, LINKEDIN_PASSWORD)
-
-# Fetch latest 5 posts from the user
-username = "sadiqul-islam-shakib"
-posts = api.get_user_posts(username)
-latest_posts = posts[:5]  # take 5 latest
-
-# Prepare table rows
 rows = []
-for post in latest_posts:
-    text = post.get("text", "").replace("\n", " ").strip()
-    post_url = f"https://www.linkedin.com/feed/update/{post.get('id')}"
-    rows.append(f"<tr><td>{text}</td><td><a href=\"{post_url}\" target=\"_blank\">View Post</a></td></tr>")
+for entry in feed.entries[:5]:  # latest 5 posts
+    title = entry.title.replace("\n", " ").strip()
+    link = entry.link
+    rows.append(f"<tr><td>{title}</td><td><a href='{link}' target='_blank'>View Post</a></td></tr>")
 
 # Read existing README
 with open("README.md", "r", encoding="utf-8") as f:
