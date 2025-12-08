@@ -122,6 +122,12 @@
 
 ---
 
+## 🔗 Latest LinkedIn Posts
+<!-- LINKEDIN:START -->
+<!-- LINKEDIN:END -->
+
+---
+
 ## 📊 GitHub Stats
 
 <table>

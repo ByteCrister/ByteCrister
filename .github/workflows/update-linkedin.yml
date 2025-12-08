@@ -1,0 +1,32 @@
+name: Update LinkedIn Posts
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.x"
+
+    - name: Install feedparser
+      run: pip install feedparser
+
+    - name: Update README with LinkedIn posts
+      run: python update_linkedin.py
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add README.md
+        git commit -m "Update latest LinkedIn posts" || echo "No changes"
+        git push
