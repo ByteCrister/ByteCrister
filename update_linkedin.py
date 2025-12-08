@@ -4,10 +4,11 @@ RSS_URL = "https://rsshub.app/linkedin/posts/1177422605"
 
 feed = feedparser.parse(RSS_URL)
 
-posts = []
-for entry in feed.entries[:5]:  # Get latest 5 posts
+rows = []
+for entry in feed.entries[:5]:  # latest 5 posts
     title = entry.title.replace("\n", " ").strip()
-    posts.append(f"- [{title}]({entry.link})")
+    link = entry.link
+    rows.append(f"<tr><td>{title}</td><td><a href=\"{link}\" target=\"_blank\">View Post</a></td></tr>")
 
 with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
@@ -15,12 +16,12 @@ with open("README.md", "r", encoding="utf-8") as f:
 start = "<!-- LINKEDIN:START -->"
 end = "<!-- LINKEDIN:END -->"
 
-new_content = start + "\n" + "\n".join(posts) + "\n" + end
+new_content = start + "\n" + "\n".join(rows) + "\n" + end
 
 if start in readme and end in readme:
     updated = readme.split(start)[0] + new_content + readme.split(end)[1]
 else:
-    updated = readme + "\n## 🔗 Latest LinkedIn Posts\n" + new_content
+    updated = readme + "\n" + new_content
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(updated)
