@@ -1,4 +1,5 @@
 name: Update LinkedIn Posts
+
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -7,7 +8,7 @@ on:
 jobs:
   update-readme:
     permissions:
-      contents: write   # ✅ REQUIRED so the bot can push
+      contents: write   # ✅ Required so the workflow can push
     runs-on: ubuntu-latest
     
     steps:
@@ -27,7 +28,7 @@ jobs:
     - name: Update README with LinkedIn posts
       run: python update_linkedin.py
 
-    - name: Commit changes
+    - name: Commit and push changes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
@@ -35,4 +36,6 @@ jobs:
         git config --global user.email "github-actions@github.com"
         git add README.md
         git commit -m "Update latest LinkedIn posts" || echo "No changes"
-        git push
+        # Set remote to use GITHUB_TOKEN for authentication
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+        git push origin main
