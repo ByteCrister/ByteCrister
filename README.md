@@ -139,6 +139,7 @@
   <tbody>
 
 <!-- LINKEDIN:START -->
+
 <!-- LINKEDIN:END -->
 
   </tbody>
