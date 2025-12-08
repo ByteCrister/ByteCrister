@@ -2,37 +2,29 @@ name: Update LinkedIn Posts
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
 
 jobs:
   update-readme:
     permissions:
-      contents: write   # ✅ Required so the workflow can push
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repo
       uses: actions/checkout@v3
-      with:
-        persist-credentials: false   # prevent token override
 
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: "3.x"
 
-    - name: Install system dependencies
-      run: sudo apt-get update && sudo apt-get install -y libxml2-dev libxslt-dev python3-dev build-essential
-
-    - name: Install Python dependencies
-      run: pip install linkedin-api
+    - name: Install feedparser
+      run: pip install feedparser
 
     - name: Update README with LinkedIn posts
       run: python update_linkedin.py
-      env:
-        LINKEDIN_EMAIL: ${{ secrets.LINKEDIN_EMAIL }}
-        LINKEDIN_PASSWORD: ${{ secrets.LINKEDIN_PASSWORD }}
 
     - name: Commit and push changes
       env:
@@ -42,5 +34,4 @@ jobs:
         git config --global user.email "github-actions@github.com"
         git add README.md
         git commit -m "Update latest LinkedIn posts" || echo "No changes"
-        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-        git push origin main
+        git push
