@@ -123,8 +123,28 @@
 ---
 
 ## 🔗 Latest LinkedIn Posts
+
+<details>
+<summary><b>▶ Click to expand latest LinedIn posts</b></summary>
+
+<br/>
+
+<table>
+  <thead>
+    <tr>
+      <th>Post Title</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+
 <!-- LINKEDIN:START -->
 <!-- LINKEDIN:END -->
+
+  </tbody>
+</table>
+
+</details>
 
 ---
 
