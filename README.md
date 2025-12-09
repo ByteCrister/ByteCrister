@@ -197,3 +197,7 @@
 <p align="center">
    *Thanks for stopping by — keep building, keep exploring!*
 </p>
+
+<!-- LINKEDIN:START -->
+
+<!-- LINKEDIN:END -->
