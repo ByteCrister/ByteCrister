@@ -132,15 +132,14 @@
 <table>
   <thead>
     <tr>
-      <th>Post Title</th>
-      <th>Link</th>
+      <th>Post</th>
     </tr>
   </thead>
   <tbody>
 
-<!-- LINKEDIN:START -->
-
-<!-- LINKEDIN:END -->
+<tr>
+  <td><a href="https://www.linkedin.com/posts/sadiqul-islam-shakib_%E0%A6%AC%E0%A6%B0%E0%A6%A1%E0%A6%A5-%E0%A6%AB%E0%A6%B0%E0%A6%B8%E0%A6%9F-%E0%A6%B8%E0%A6%B0%E0%A6%9A-bfs-%E0%A6%85%E0%A6%AF%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%A6%E0%A6%AE-bfs-activity-7403444450192207873-wHdu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYuCw0BCL-qgH_1fkqAcZxSXupH5rkYKD0" target="_blank">ব্রেডথ-ফার্স্ট সার্চ (BFS) অ্যালগরিদম</a></td>
+</tr>
 
   </tbody>
 </table>
