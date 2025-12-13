@@ -130,14 +130,14 @@
 <table>
 <tr>
 <td align="center">
-<b>𝗗𝗙𝗦 আসলে কী জিনিস?</b><br/>
 <a href="https://www.linkedin.com/posts/sadiqul-islam-shakib_%F0%9D%97%97%F0%9D%97%99%F0%9D%97%A6-%E0%A6%86%E0%A6%B8%E0%A6%B2-%E0%A6%95-%E0%A6%9C%E0%A6%A8%E0%A6%B8-%E0%A6%8F%E0%A6%95%E0%A6%9F-%E0%A6%AA%E0%A6%A5-%E0%A6%A7%E0%A6%B0-%E0%A6%AF%E0%A6%A4-activity-7405290373239042048-WCQ2">
+<b>𝗗𝗙𝗦 আসলে কী জিনিস?</b>
 </a>
 </td>
 
 <td align="center">
-<b>BFS কী? (Breadth-First Search)</b><br/>
 <a href="https://www.linkedin.com/posts/sadiqul-islam-shakib_%E0%A6%AC%E0%A6%B0%E0%A6%A1%E0%A6%A5-%E0%A6%AB%E0%A6%B0%E0%A6%B8%E0%A6%9F-%E0%A6%B8%E0%A6%B0%E0%A6%9A-bfs-%E0%A6%85%E0%A6%AF%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%A6%E0%A6%AE-bfs-activity-7403444450192207873-wHdu">
+<b>BFS কী? (Breadth-First Search)</b>
 </a>
 </td>
 </tr>
