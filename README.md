@@ -60,15 +60,45 @@
 
 ---
 
+## 🧠 What I Do
+
+- 🚀 Build scalable full-stack applications using modern technologies  
+- ⚡ Develop real-time systems with Socket.IO & WebRTC  
+- 🗄 Design efficient and scalable database architectures  
+- 🎮 Create interactive web apps, games, and developer tools  
+
 ## 📚 Currently Exploring
 
-- 🚀 **Full‑stack product builds** — crafting scalable apps with **Next.js, TypeScript, TailwindCSS, MongoDB/Mongoose**, and clean schema design.
-- 🧠 **AI‑powered projects** — experimenting with interactive games and tools that apply core **Artificial Intelligence** techniques (see *AI‑Games‑CSE‑412*).
-- 🗄 **Database‑driven systems** — designing and optimizing relational & NoSQL data models for projects like **Inventory Management** and **Cricket Score Management**.
-- 🎮 **Creative coding** — building engaging browser games (*Pong Game*) and playful UI experiments.
-- 📅 **Productivity platforms** — developing tools like **Meeting Sync** to streamline scheduling and collaboration.
-- 🌱 Always learning — deepening expertise in **state management** (Redux, Zustand), **OOP patterns**, and modern web tooling.
-- 📫 Reach me at: **sadiqul.islam.shakib21@gmail.com**
+- 🚀 **Full-stack product builds** — crafting scalable apps with clean architecture using Next.js, TypeScript, and MongoDB  
+- 🧠 **AI-powered projects** — experimenting with interactive tools & games applying core AI concepts  
+- 🗄 **Database systems** — optimizing relational & NoSQL designs (Inventory & Cricket Score systems)  
+- 🎮 **Creative coding** — building browser-based games and UI experiments  
+- 📅 **Productivity tools** — developing platforms like *Meeting Sync*  
+- 🌱 **Continuous learning** — state management (Redux, Zustand), OOP patterns, and modern tooling  
+
+---
+
+## 🤖 AI/ML Skills
+
+- Data Cleaning  
+- Data Processing  
+- Feature Engineering  
+- Model Training  
+
+---
+
+## 📌 Currently Learning
+
+- PostgreSQL  
+- NestJS  
+- Advanced backend architecture  
+
+---
+
+## 💡 Mindset
+
+> I learn by building.  
+> I make mistakes → fix them → improve → repeat.
 
 
 ---
