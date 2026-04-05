@@ -155,18 +155,18 @@
 ## 🔗 Latest LinkedIn Posts
 
 <details>
-<summary><b>▶ Click to expand latest LinkedIn posts</b></summary>
+<summary><b>▶ Click to expand some LinkedIn posts</b></summary>
 
 <br />
 
 | 📝 Post  |
 |--------------|
+| [**𝗧𝗵𝗲 𝗯𝗮𝗿 𝗳𝗼𝗿 𝗳𝗿𝗲𝘀𝗵𝗲𝗿𝘀 𝗶𝘀 𝗯𝗲𝗰𝗼𝗺𝗶𝗻𝗴 𝘂𝗻𝗿𝗲𝗮𝗹𝗶𝘀𝘁𝗶𝗰.**](https://www.linkedin.com/posts/sadiqul-islam-shakib_%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%BF-%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF-%F0%9D%97%B3%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%B6%F0%9D%98%80-activity-7444790641215156224-ez5D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYuCw0BCL-qgH_1fkqAcZxSXupH5rkYKD0) |
 | [**𝗪𝗲 𝗟𝗲𝗮𝗿𝗻𝗲𝗱 𝗗𝗕𝗠𝗦... 𝗕𝘂𝘁 𝗡𝗼𝘁 𝗛𝗼𝘄 𝘁𝗼 𝗗𝗲𝘀𝗶𝗴𝗻 𝗮 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲**](https://www.linkedin.com/posts/sadiqul-islam-shakib_%F0%9D%97%AA%F0%9D%97%B2-%F0%9D%97%9F%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BB%F0%9D%97%B2%F0%9D%97%B1-%F0%9D%97%97%F0%9D%97%95%F0%9D%97%A0%F0%9D%97%A6-%F0%9D%97%95%F0%9D%98%82%F0%9D%98%81-activity-7441508125159075841-LTSQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYuCw0BCL-qgH_1fkqAcZxSXupH5rkYKD0) |
 | [**Why University Level Projects Still Ignore API Pagination?**](https://www.linkedin.com/posts/sadiqul-islam-shakib_softwareengineering-backend-apidesign-activity-7437574389761544192-bX_v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYuCw0BCL-qgH_1fkqAcZxSXupH5rkYKD0) |
 | [**AI is replacing jobs — but is it replacing customers too?**](https://www.linkedin.com/posts/sadiqul-islam-shakib_ai-is-replacing-jobs-but-is-it-replacing-activity-7419075527363403776-Fcbn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYuCw0BCL-qgH_1fkqAcZxSXupH5rkYKD0) |
 | [**🔥 গুগল সার্চ কিভাবে এত দ্রুত কাজ করে?**](https://www.linkedin.com/posts/sadiqul-islam-shakib_orange-and-yellow-geometric-motivation-quote-activity-7415256290933026816-47fU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYuCw0BCL-qgH_1fkqAcZxSXupH5rkYKD0) |
 | [**🔍 আপনি কি কখনো সার্চ করেছেন এবং টাইপো করায় ফলাফল মিস করেছেন?**](https://www.linkedin.com/posts/sadiqul-islam-shakib_%E0%A6%86%E0%A6%AA%E0%A6%A8-%E0%A6%95-%E0%A6%95%E0%A6%96%E0%A6%A8-%E0%A6%B8%E0%A6%B0%E0%A6%9A-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A6%A8-%E0%A6%8F%E0%A6%AC-%E0%A6%9F%E0%A6%87%E0%A6%AA-%E0%A6%95%E0%A6%B0%E0%A6%AF-activity-7412719566252081153-Iw0y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYuCw0BCL-qgH_1fkqAcZxSXupH5rkYKD0) |
-| [**বেস্ট ফার্স্ট সার্চ (Best First Search)**](https://www.linkedin.com/posts/sadiqul-islam-shakib_%E0%A6%AC%E0%A6%B8%E0%A6%9F-%E0%A6%AB%E0%A6%B0%E0%A6%B8%E0%A6%9F-%E0%A6%B8%E0%A6%B0%E0%A6%9A-best-first-search-%F0%9D%97%95%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81-activity-7408914223025713152-dSNn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYuCw0BCL-qgH_1fkqAcZxSXupH5rkYKD0) |
 
 </details>
 
