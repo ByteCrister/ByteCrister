@@ -66,6 +66,7 @@
 - ⚡ Develop real-time systems with Socket.IO & WebRTC  
 - 🗄 Design efficient and scalable database architectures  
 - 🎮 Create interactive web apps, games, and developer tools  
+- 🌾 Develop AI‑powered agricultural tools & travel assistance systems  
 
 ## 📚 Currently Exploring
 
@@ -100,25 +101,16 @@
 > I learn by building.  
 > I make mistakes → fix them → improve → repeat.
 
-
 ---
 
-## 🌐 Connect With Me
+## 🚀 Recent Projects
 
-<p align="left">
-  <a href="https://www.facebook.com/sadiqulislam.shakib.33" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_sadiqul_islam_shakib_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-   <a href="https://www.linkedin.com/in/sadiqul-islam-shakib/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-   <a href="https://sadiqul-islam-shakib.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🌾 **[agroleaf-ai](https://github.com/ByteCrister/agroleaf-ai)** | AI‑powered agricultural assistant for leaf disease detection and crop health monitoring. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| 🧭 **[bd-travel-spirit-guide-system](https://github.com/ByteCrister/bd-travel-spirit-guide-system)** | Interactive travel guide for Bangladesh showcasing cultural heritage, spiritual sites, and offbeat destinations. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white) |
+| 🎨 **[quantipixor](https://github.com/ByteCrister/quantipixor)** | Creative pixel manipulation & quantum‑inspired image processing playground. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Canvas API](https://img.shields.io/badge/Canvas_API-FF6600?style=flat&logo=html5&logoColor=white) |
+| 🆘 **[bd-travel-spirit-support-system](https://github.com/ByteCrister/bd-travel-spirit-support-system)** | Real‑time assistance and emergency support platform for travelers in Bangladesh. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white) |
 
 ---
 
@@ -149,6 +141,25 @@
 | 📆 **[Meeting Sync](https://github.com/ByteCrister/meeting-sync)** | Modern meeting scheduling platform with calendar integration, smart booking, and real-time communication. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=radixui&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
 | 📘 **[Next Learn](https://github.com/ByteCrister/next-learn)** | Interactive Next.js learning playground with hands-on examples, starter templates, and guided tutorials for building modern web apps. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=radixui&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) |
 </details>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.facebook.com/sadiqulislam.shakib.33" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_sadiqul_islam_shakib_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+   <a href="https://www.linkedin.com/in/sadiqul-islam-shakib/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="https://sadiqul-islam-shakib.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -214,7 +225,6 @@
 </td>
 </tr>
 </table>
-
 
 ---
 
