@@ -1,4 +1,4 @@
-﻿<!-- BANNER -->
+<!-- BANNER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/ByteCrister/ByteCrister/main/tech-banner-illustration-desktop-computer_107791-7920.avif"
        alt="Sadiqul Islam Shakib — Full-Stack Developer · ByteCrister"
@@ -38,7 +38,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Sadiqul Islam Shakib** — a full-stack developer from **Bangladesh**, currently pursuing my undergraduate degree at **North East University Bangladesh (NEUB)**.
+Hi, I'm **Sadiqul Islam Shakib** — a full-stack developer from **Bangladesh**, graduated from **North East University Bangladesh (NEUB)**.
 
 I build complete, production-grade web applications — from designing database schemas and REST APIs to crafting polished, interactive frontends. My work spans real-time systems, AI-assisted tooling, platform management dashboards, and developer utilities.
 
